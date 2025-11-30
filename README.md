@@ -259,5 +259,5 @@ Este proyecto está bajo la Licencia [CC BY-NC-SA 4.0](LICENSE).
 ---
 
 <div align="center">
-  <sub>Creado con ❤️ por Vera Guillén | 2023</sub>
+  <sub>Creado con ❤️ por Vera Guillén | 2025</sub>
 </div>
