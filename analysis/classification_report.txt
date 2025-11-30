@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+        nada     0.9793    0.9793    0.9793       145
+       yegua     0.9700    0.9700    0.9700       100
+
+    accuracy                         0.9755       245
+   macro avg     0.9747    0.9747    0.9747       245
+weighted avg     0.9755    0.9755    0.9755       245
