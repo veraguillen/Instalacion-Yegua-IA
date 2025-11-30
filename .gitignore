@@ -95,3 +95,8 @@ htmlcov/
 # Project specific
 data/model/
 !data/model/.gitkeep
+# En .gitignore debe estar:
+data/raw/
+data/processed/
+data/train/
+!data/train/.gitkeep
